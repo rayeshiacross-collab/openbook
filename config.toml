@@ -1,0 +1,4 @@
+# Global OpenBook settings (not per-book)
+# mode: manual | agent | api | local
+mode = "manual"
+model = ""
